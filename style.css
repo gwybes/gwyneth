@@ -36,24 +36,28 @@ a:link {
 /* The next two selectors control hero-text font properties. 2em is 2x inherited font-size value. 5 em is 5x stated value. */
 .hero-text h1 {
   font-family: "Lettertype";
-    font-size: 5em;
-    color: white;
+  src: url("../Projects-Fuego-main/Lettertype-Regular.ttf") format('truetype');
+  font-size: 5em;
+  color: white;
 }
 
 .hero-text h2 {
   font-family: "Lettertype";
-    font-size: 2em;
-    color: white;
+  src: url("../Projects-Fuego-main/Lettertype-Regular.ttf") format('truetype');
+  font-size: 2em;
+  color: white;
 }
 
 .text-block h2 {
   font-family: "Lettertype";
+  src: url("../Projects-Fuego-main/Lettertype-Regular.ttf") format('truetype');
   font-size: 2em;
   color: black;
 }
 
 .hero-text p {
   font-family: "jun", serif;
+  src: url("../Projects-Fuego-main/Jun_Regular.otf") format('truetype');
   font-size: 2em;
   color: white;
 }
