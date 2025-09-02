@@ -4,6 +4,7 @@ body, html {
     height: 100%;
     margin: 0;
     font-family: "jun", serif;
+	src: url("../Projects-Fuego-main/Jun_Regular.otf") format('truetype');
     color: black;
     background-color: #F7F0F0;
 }  
